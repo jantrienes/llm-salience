@@ -30,7 +30,7 @@ We experimented with four datasets:
 3. **CL.** Related work sections of NLP/Computational Linguistics papers drawn from arXiv.
 4. **QMSum.** Meeting transcripts drawn from the QMSum dataset [(Zhong et al., NAACL 2021)](https://aclanthology.org/2021.naacl-main.472/)
 
-The raw data for QMSum can be found in `data/raw/qmsum`, and most scripts should be able to run with this data. Also we provide scirpts to fetch a new sample of RCT abstracts from PubMed. Due to license terms, we cannot release the raw data for RCT, Astro, and CL. However, we are happy to assist anyone wanting to reproduce our experiments. Please reach out (see contact below).
+The raw data for QMSum can be found in `data/raw/qmsum`. Most scripts should run with this data. Also we provide scripts to fetch a new sample of RCT abstracts from PubMed. Due to license terms, we cannot release the raw data for RCT, Astro, and CL. In the meantime, we include the precise document identifiers that we used in our experiments in `data/processed/`, and we are evaluating a solution to allow reproduction of the raw dataset. If you are interested in reproducing any of the experiments, we are happy to assist. Please reach out (see contact below).
 
 ### Preprocessing
 
