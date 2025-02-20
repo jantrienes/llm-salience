@@ -1,0 +1,33 @@
+name: info-salience
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - seaborn
+    - datasets
+    - evaluate
+    - nltk
+    - openai
+    - torch
+    - transformers
+    - together
+    - accelerate
+    - scikit-learn
+    - tqdm
+    - spacy
+    - textstat
+    - nervaluate
+    - gdown
+    - python-dotenv
+    - label-studio-sdk
+    - krippendorff
+    - statsmodels
+    - outlines
+    - git+https://github.com/jantrienes/litellm.git@litellm_fix_httpx_transport  # pin until this is merged
+    - git+ssh://git@github.com/jantrienes/MiniCheck.git@pip-install#egg=minicheck
+    - json_repair
+    - pysbd
