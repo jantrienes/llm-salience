@@ -1,0 +1,86 @@
+{
+    "dataset": "astro-ph",
+    "annotator": "t39hhaf",
+    "comments": "",
+    "items": [
+        {
+            "id": 15,
+            "question": "What are the main findings of the study?",
+            "rating": 4,
+            "rationale": "The main findings should be briefly addressed in the summary of a discussion for the reader\u2019s quick follow-up. However, the main findings may not be fully described in the discussion section. This information is provided only for the reader\u2019s convenience."
+        },
+        {
+            "id": 2,
+            "question": "How do the findings affect the understanding of astronomical systems?",
+            "rating": 5,
+            "rationale": "This forms the main body of a discussion section."
+        },
+        {
+            "id": 18,
+            "question": "How do the findings relate to existing models or theories?",
+            "rating": 5,
+            "rationale": "This forms the main body of a discussion section."
+        },
+        {
+            "id": 6,
+            "question": "What comparisons are made within the study?",
+            "rating": 5,
+            "rationale": "This forms the main body of a discussion section."
+        },
+        {
+            "id": 3,
+            "question": "What specific challenges or limitations does the study address or identify?",
+            "rating": 5,
+            "rationale": "This forms the main body of a discussion section."
+        },
+        {
+            "id": 8,
+            "question": "What methodology or techniques are employed in the study?",
+            "rating": 2,
+            "rationale": "This should be in the methods section, not in a discussion section. Only when authors want to make comparisons with other studies should a summary of the discussion mention the methodology/techniques this study uses."
+        },
+        {
+            "id": 9,
+            "question": "Which future research directions does the study recommend or outline?",
+            "rating": 5,
+            "rationale": "This forms the main body of a discussion section."
+        },
+        {
+            "id": 0,
+            "question": "What is the main focus of the study?",
+            "rating": 3,
+            "rationale": "The main focus can be briefly addressed in the summary of a discussion for the reader\u2019s quick follow-up, but it is not required. This information can also be found in the study\u2019s title."
+        },
+        {
+            "id": 17,
+            "question": "What broader context or field does the study contribute to or address?",
+            "rating": 4,
+            "rationale": " Broader context or fields are important in a discussion section, although they are not always addressed."
+        },
+        {
+            "id": 12,
+            "question": "What specific variables or conditions are crucial in the study's findings?",
+            "rating": 2,
+            "rationale": "These should be in the methods or results sections, not in a discussion section. Only when authors want to make comparisons with other studies should a summary of the discussion mention the variables/conditions to compare."
+        },
+        {
+            "id": 5,
+            "question": "What are the broader implications or potential applications of the findings?",
+            "rating": 5,
+            "rationale": "This forms the main body of a discussion section."
+        },
+        {
+            "id": 10,
+            "question": "What specific phenomena or processes are being investigated in the study?",
+            "rating": 2,
+            "rationale": "These should be in the introduction/results section, not in a discussion section. Only when authors want to make comparisons should a summary of the discussion mention the phenomena/processes to compare."
+        },
+        {
+            "id": 14,
+            "question": "What detailed evidence or data is used to support the study's claims?",
+            "rating": 2,
+            "rationale": "These should be in the methods/results section, not in a discussion section. Only when authors want to make comparisons should a summary of the discussion mention the detailed evidence/data to compare."
+        }
+    ],
+    "duration": 40
+}

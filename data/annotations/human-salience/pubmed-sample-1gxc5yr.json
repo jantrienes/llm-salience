@@ -1,0 +1,134 @@
+{
+    "dataset": "pubmed-sample",
+    "annotator": "1gxc5yr",
+    "comments": "",
+    "items": [
+        {
+            "id": 6,
+            "question": "What are the specific biological markers influenced by the intervention?",
+            "rating": 3,
+            "rationale": "Specific markers are useful, but are not essential in a summary so long as they represent a reasonable proxy for the underlying effect these markers are purported to explain."
+        },
+        {
+            "id": 31,
+            "question": "What are the significant benefits of the intervention?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 18,
+            "question": "What is the participant demographic or characteristics in the study?",
+            "rating": 3,
+            "rationale": "This helps a reader determine external validity of a study."
+        },
+        {
+            "id": 2,
+            "question": "What limitations or considerations are noted by the study?",
+            "rating": 3,
+            "rationale": "This is important, but best reserved for readers who choose to critically examine the study in its totality."
+        },
+        {
+            "id": 29,
+            "question": "What is the main outcome or effect observed?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 34,
+            "question": "What specific treatments were compared in the study?",
+            "rating": 3,
+            "rationale": "Specific treatments are useful, but are not essential in a summary so long as they represent a reasonable proxy for the underlying phenomenon these treatments are purported to ameliorate."
+        },
+        {
+            "id": 10,
+            "question": "Which patient population is the study concerned with?",
+            "rating": 3,
+            "rationale": "This helps a reader determine external validity of a study."
+        },
+        {
+            "id": 28,
+            "question": "What are secondary outcomes noted in the study?",
+            "rating": 3,
+            "rationale": "These may be useful if they are significant."
+        },
+        {
+            "id": 20,
+            "question": "What were the methods used in the study?",
+            "rating": 2,
+            "rationale": "This is important, but beyond the scope of what most readers are looking for with a given RCT."
+        },
+        {
+            "id": 36,
+            "question": "What was the main intervention used in the study?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 1,
+            "question": "What is the main focus of the study?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 3,
+            "question": "What are the detailed findings regarding adverse events or side effects?",
+            "rating": 2,
+            "rationale": "This is important, but beyond the scope of what most readers are looking for with a given RCT."
+        },
+        {
+            "id": 11,
+            "question": "What was the study design or setting of the trial?",
+            "rating": 2,
+            "rationale": "This is important, but beyond the scope of what most readers are looking for with a given RCT."
+        },
+        {
+            "id": 8,
+            "question": "What were the comparative results between intervention and control groups?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 19,
+            "question": "How were the participants or subjects of the study selected and divided?",
+            "rating": 2,
+            "rationale": "This helps a reader determine external validity of a study."
+        },
+        {
+            "id": 0,
+            "question": "How long was the duration of the intervention or study?",
+            "rating": 4,
+            "rationale": "This is important, though its usefulness is closely tied to the phenomenon being examined."
+        },
+        {
+            "id": 9,
+            "question": "What condition is being addressed in the study?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 23,
+            "question": "What specific metrics or outcomes were measured?",
+            "rating": 3,
+            "rationale": "Specific outcomes are useful, but are not essential in a summary so long as they represent a reasonable proxy for the underlying phenomenon these outcome measures are purported to explain."
+        },
+        {
+            "id": 14,
+            "question": "What implications or future recommendations did the study suggest based on its findings?",
+            "rating": 1,
+            "rationale": "This is a job for the reader to decide for himself or herself."
+        },
+        {
+            "id": 4,
+            "question": "What are the main findings regarding efficacy and safety?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        },
+        {
+            "id": 26,
+            "question": "What significant statistical results are reported?",
+            "rating": 5,
+            "rationale": "This determines whether a paper can be used to influence decision making."
+        }
+    ],
+    "duration": 10
+}

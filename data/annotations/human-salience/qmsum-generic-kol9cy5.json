@@ -1,0 +1,68 @@
+{
+    "dataset": "qmsum-generic",
+    "annotator": "kol9cy5",
+    "comments": "",
+    "items": [
+        {
+            "id": 16,
+            "question": "What potential future steps or actions were planned in the meeting?",
+            "rating": 4,
+            "rationale": "One of the most important part of meetings is knowing what the next steps were, in order to plan properly."
+        },
+        {
+            "id": 7,
+            "question": "What were the anticipated impacts or implications discussed?",
+            "rating": 3,
+            "rationale": ""
+        },
+        {
+            "id": 10,
+            "question": "Which aspects of the main topic were covered in the discussion?",
+            "rating": 3,
+            "rationale": "This only covers a little more information than \"What was the main topic\" question."
+        },
+        {
+            "id": 4,
+            "question": "What main topic was discussed in the meeting?",
+            "rating": 5,
+            "rationale": "This is essential to know what the meeting was about"
+        },
+        {
+            "id": 17,
+            "question": "What were the major outcomes or decisions made during the meeting?",
+            "rating": 5,
+            "rationale": "This sounds like essential information to have (e.g., a busy person may read this after the \"main topic\" question."
+        },
+        {
+            "id": 9,
+            "question": "Who are the participants and their roles discussed in the meeting?",
+            "rating": 1,
+            "rationale": "Not that important, unless we know who said what."
+        },
+        {
+            "id": 2,
+            "question": "What were the main objectives or goals discussed in the meeting?",
+            "rating": 4,
+            "rationale": "This goes along with the next question naturally."
+        },
+        {
+            "id": 14,
+            "question": "What detailed strategies or solutions were proposed for the challenges discussed?",
+            "rating": 4,
+            "rationale": "Seems like a very important piece of information."
+        },
+        {
+            "id": 15,
+            "question": "What are the identified challenges or concerns discussed?",
+            "rating": 3,
+            "rationale": ""
+        },
+        {
+            "id": 3,
+            "question": "What collaborative efforts or partnerships were discussed?",
+            "rating": 3,
+            "rationale": ""
+        }
+    ],
+    "duration": 15
+}

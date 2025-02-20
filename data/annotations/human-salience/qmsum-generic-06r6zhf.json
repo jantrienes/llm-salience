@@ -1,0 +1,68 @@
+{
+    "dataset": "qmsum-generic",
+    "annotator": "06r6zhf",
+    "comments": "",
+    "items": [
+        {
+            "id": 9,
+            "question": "Who are the participants and their roles discussed in the meeting?",
+            "rating": 3,
+            "rationale": "if the list is long, I would maybe only mention the important participants and not all"
+        },
+        {
+            "id": 7,
+            "question": "What were the anticipated impacts or implications discussed?",
+            "rating": 3,
+            "rationale": "quite detailed info, I wouldn't necessarily expect it in a summary"
+        },
+        {
+            "id": 15,
+            "question": "What are the identified challenges or concerns discussed?",
+            "rating": 2,
+            "rationale": "quite detailled"
+        },
+        {
+            "id": 4,
+            "question": "What main topic was discussed in the meeting?",
+            "rating": 5,
+            "rationale": "makes sense"
+        },
+        {
+            "id": 14,
+            "question": "What detailed strategies or solutions were proposed for the challenges discussed?",
+            "rating": 3,
+            "rationale": "a detailed information, agreed upon solutions are more important than proposed ones. could be left out"
+        },
+        {
+            "id": 3,
+            "question": "What collaborative efforts or partnerships were discussed?",
+            "rating": 3,
+            "rationale": "a nice to have info"
+        },
+        {
+            "id": 16,
+            "question": "What potential future steps or actions were planned in the meeting?",
+            "rating": 5,
+            "rationale": "relevant information"
+        },
+        {
+            "id": 2,
+            "question": "What were the main objectives or goals discussed in the meeting?",
+            "rating": 5,
+            "rationale": "relevant for an overall understanding "
+        },
+        {
+            "id": 10,
+            "question": "Which aspects of the main topic were covered in the discussion?",
+            "rating": 3,
+            "rationale": "maybe not all aspects are relevant"
+        },
+        {
+            "id": 17,
+            "question": "What were the major outcomes or decisions made during the meeting?",
+            "rating": 5,
+            "rationale": "it's important to know, without it the summary would be incomplete "
+        }
+    ],
+    "duration": 30
+}

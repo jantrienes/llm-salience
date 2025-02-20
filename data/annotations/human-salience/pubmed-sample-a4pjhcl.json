@@ -1,0 +1,134 @@
+{
+    "dataset": "pubmed-sample",
+    "annotator": "a4pjhcl",
+    "comments": "",
+    "items": [
+        {
+            "id": 18,
+            "question": "What is the participant demographic or characteristics in the study?",
+            "rating": 5,
+            "rationale": "Demographics can largely determine the applicability of a certain study for a certain field (example:  children and pediatrics)"
+        },
+        {
+            "id": 1,
+            "question": "What is the main focus of the study?",
+            "rating": 5,
+            "rationale": "Typically one of the first information as it sets the direction for the rest of the paper/summary."
+        },
+        {
+            "id": 11,
+            "question": "What was the study design or setting of the trial?",
+            "rating": 5,
+            "rationale": "Important for determining quality of evidence and is usually type of study is stated in either the title one of the first sentences in a summary."
+        },
+        {
+            "id": 9,
+            "question": "What condition is being addressed in the study?",
+            "rating": 4,
+            "rationale": "Determines relevance of the overall study when it comes to applying the information in a clinical setting."
+        },
+        {
+            "id": 3,
+            "question": "What are the detailed findings regarding adverse events or side effects?",
+            "rating": 2,
+            "rationale": "Not a top priority unless the goal of the study is to determine adverse events/side effects."
+        },
+        {
+            "id": 29,
+            "question": "What is the main outcome or effect observed?",
+            "rating": 5,
+            "rationale": "Usually the primary information sought after when reading a summary of a paper."
+        },
+        {
+            "id": 10,
+            "question": "Which patient population is the study concerned with?",
+            "rating": 5,
+            "rationale": "Overlap with question 1, population/demographics determines the extent of applicability of a study."
+        },
+        {
+            "id": 31,
+            "question": "What are the significant benefits of the intervention?",
+            "rating": 4,
+            "rationale": "Often is the main information sought after when reading a paper, however the main benefit is the most important (other benefits should be included but not necessarily top priority)."
+        },
+        {
+            "id": 2,
+            "question": "What limitations or considerations are noted by the study?",
+            "rating": 1,
+            "rationale": "Typically addressed in the discussion section of a paper, but is not necessary for a summary."
+        },
+        {
+            "id": 14,
+            "question": "What implications or future recommendations did the study suggest based on its findings?",
+            "rating": 3,
+            "rationale": "Extra information that helps the reader understand the paper. Useful for at the end of a summary."
+        },
+        {
+            "id": 34,
+            "question": "What specific treatments were compared in the study?",
+            "rating": 4,
+            "rationale": "Determines applicability of study when it comes to answering a PICO question."
+        },
+        {
+            "id": 20,
+            "question": "What were the methods used in the study?",
+            "rating": 4,
+            "rationale": "Useful for quickly determining quality of evidence, however, does not need to be detailed in a summary."
+        },
+        {
+            "id": 0,
+            "question": "How long was the duration of the intervention or study?",
+            "rating": 2,
+            "rationale": "Duration of intervention is not always relevant for a study especially if the main focus of the study is on short-term events."
+        },
+        {
+            "id": 28,
+            "question": "What are secondary outcomes noted in the study?",
+            "rating": 1,
+            "rationale": "Not necessary in a summary as it is not the target information."
+        },
+        {
+            "id": 8,
+            "question": "What were the comparative results between intervention and control groups?",
+            "rating": 5,
+            "rationale": "Brief comparison between groups allows for readers to quickly assess statistical significance."
+        },
+        {
+            "id": 4,
+            "question": "What are the main findings regarding efficacy and safety?",
+            "rating": 3,
+            "rationale": "Efficacy/safety may not always be the main focus of a study, but is still relevant for applicability of an intervention."
+        },
+        {
+            "id": 23,
+            "question": "What specific metrics or outcomes were measured?",
+            "rating": 1,
+            "rationale": "Summary statistics are usually the main focus, raw data does not need to be included in the summary."
+        },
+        {
+            "id": 36,
+            "question": "What was the main intervention used in the study?",
+            "rating": 5,
+            "rationale": "Part of answering the PICO question, therefore is a fundamental element to every summary."
+        },
+        {
+            "id": 6,
+            "question": "What are the specific biological markers influenced by the intervention?",
+            "rating": 1,
+            "rationale": "Specific markers are too detailed and usually does not need to be included in a summary as not all readers will understand what the biologic markers are."
+        },
+        {
+            "id": 19,
+            "question": "How were the participants or subjects of the study selected and divided?",
+            "rating": 1,
+            "rationale": "Not necessary in the summary of an RCT as the method of selection is fairly standardized."
+        },
+        {
+            "id": 26,
+            "question": "What significant statistical results are reported?",
+            "rating": 5,
+            "rationale": "Main outcome that physicians/readers are looking for when reading a summary as it will be the main information that answers the question."
+        }
+    ],
+    "duration": 25
+}

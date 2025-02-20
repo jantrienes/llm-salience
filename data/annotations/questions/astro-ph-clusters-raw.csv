@@ -1,0 +1,21 @@
+cluster_id,centroid,cluster_size,ID,Code,Selected
+-1,What comprehensive insights or breakthroughs does the study provide for the field?,273,-1,NOISE,
+0,What is the main focus of the study?,37,1,Topic - main,x
+13,What is the primary focus or issue discussed?,29,1,Topic - main,
+10,What specific phenomena or processes are being investigated in the study?,109,2,Topic - phenomena processes,x
+17,What broader context or field does the study contribute to or address?,15,3,Topic -- context,x
+3,What specific challenges or limitations does the study address or identify?,66,4,Challenges and limitations,x
+4,What are the main challenges or limitations identified?,34,4,Challenges and limitations,
+8,What methodology or techniques are employed in the study?,99,5,Method,x
+7,What methodologies or techniques are discussed?,56,5,Method,
+6,What comparisons are made within the study?,25,6,Method -- comparisons,x
+15,What are the main findings of the study?,48,7,Results -- overall,x
+11,What key finding was highlighted?,23,7,Results -- overall,
+14,What detailed evidence or data is used to support the study's claims?,20,8,Results -- evidence,x
+12,What specific variables or conditions are crucial in the study's findings?,44,9,Results -- parameters conditions,x
+18,How do the findings relate to existing models or theories?,49,10,Discussion -- existing theories,x
+2,How do the findings affect the understanding of astronomical systems?,44,11,Discussion -- understanding,x
+5,What are the broader implications or potential applications of the findings?,38,12,Discussion -- implications,x
+16,What broader scientific implications or applications do the study's findings have?,28,12,Discussion -- implications,
+9,Which future research directions does the study recommend or outline?,59,13,Future work,x
+1,What is revealed about the central mass?,18,999,xxx -- specific,

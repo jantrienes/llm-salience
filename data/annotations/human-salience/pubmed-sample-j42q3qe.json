@@ -1,0 +1,134 @@
+{
+    "dataset": "pubmed-sample",
+    "annotator": "j42q3qe",
+    "comments": "",
+    "items": [
+        {
+            "id": 34,
+            "question": "What specific treatments were compared in the study?",
+            "rating": 5,
+            "rationale": "This is the most integral thing to be tested in an RCT. If a summary does not include this it does not serve a purpose. "
+        },
+        {
+            "id": 28,
+            "question": "What are secondary outcomes noted in the study?",
+            "rating": 3,
+            "rationale": "This is important information but depending one what else is in the study I would include it depending on the context"
+        },
+        {
+            "id": 26,
+            "question": "What significant statistical results are reported?",
+            "rating": 5,
+            "rationale": "very important to be included. This is the main measure of success. Otherwise our reporting is lacking"
+        },
+        {
+            "id": 3,
+            "question": "What are the detailed findings regarding adverse events or side effects?",
+            "rating": 4,
+            "rationale": "This is important and especially now. Historically this aspect was underreported and under communicated. However there has been a push from patient advocate groups to highlight and report this more."
+        },
+        {
+            "id": 20,
+            "question": "What were the methods used in the study?",
+            "rating": 4,
+            "rationale": "This is obviously important, the amount of detail I would go into is variable. some study designs are pretty extensive and not the first thing i would be reporting. "
+        },
+        {
+            "id": 10,
+            "question": "Which patient population is the study concerned with?",
+            "rating": 5,
+            "rationale": "Yes this is very important as well. This is one of the most important factors otherwise how would we know if the results are generalizable "
+        },
+        {
+            "id": 23,
+            "question": "What specific metrics or outcomes were measured?",
+            "rating": 4,
+            "rationale": "This is important but maybe the summary of the endpoint can get very detailed. "
+        },
+        {
+            "id": 6,
+            "question": "What are the specific biological markers influenced by the intervention?",
+            "rating": 4,
+            "rationale": "As readers for a trial this is something we look at quite a bit. These markers are important and can dictate how we interpret the study"
+        },
+        {
+            "id": 19,
+            "question": "How were the participants or subjects of the study selected and divided?",
+            "rating": 4,
+            "rationale": "Understanding participant selection and division is crucial to evaluate the study\u2019s validity and relevance. It ensures clarity on how the population was chosen and if randomization was used effectively."
+        },
+        {
+            "id": 8,
+            "question": "What were the comparative results between intervention and control groups?",
+            "rating": 5,
+            "rationale": "Comparative results are one of the primary outputs of an RCT and directly reflect the trial's effectiveness. Reporting this is essential for understanding the study's findings."
+        },
+        {
+            "id": 36,
+            "question": "What was the main intervention used in the study?",
+            "rating": 5,
+            "rationale": "The intervention is the cornerstone of the study, making it essential for communicating the purpose and focus of the trial."
+        },
+        {
+            "id": 9,
+            "question": "What condition is being addressed in the study?",
+            "rating": 5,
+            "rationale": "Clearly identifying the condition helps define the patient population and ensures the study's relevance to real-world clinical applications."
+        },
+        {
+            "id": 18,
+            "question": "What is the participant demographic or characteristics in the study?",
+            "rating": 3,
+            "rationale": "The participant demographic and characteristics are important but they would not potentially be the thing that I would include as the first thing. They are important when you are looking more at the details of the trial in terms of generalizability and applicability for patients that you see in clinic. However, if I am writing a stand-alone report, this could be one thing that would take potentially a secondary seat compared to the other factors."
+        },
+        {
+            "id": 1,
+            "question": "What is the main focus of the study?",
+            "rating": 4,
+            "rationale": "The main focus of the study is definitely an important part because this is really the thing that you are basing your power analysis on. Ideally, this is going to be the primary endpoint and this will be what guides you towards the pros and cons."
+        },
+        {
+            "id": 2,
+            "question": "What limitations or considerations are noted by the study?",
+            "rating": 3,
+            "rationale": "The limitations and considerations are definitely noted. These are things that I would note if I had the space, however, I would also implore the readers to think about the limitations and considerations themselves."
+        },
+        {
+            "id": 14,
+            "question": "What implications or future recommendations did the study suggest based on its findings?",
+            "rating": 2,
+            "rationale": "The future recommendations that the study suggests are potentially one of the lower parts of a study that I would include. Usually, these are things that the authors think are potential next steps. While they are definitely helpful, they are not necessarily always based on the opinion of the authors themselves. So I would potentially leave it out and have the reader get to that conclusion themselves."
+        },
+        {
+            "id": 31,
+            "question": "What are the significant benefits of the intervention?",
+            "rating": 4,
+            "rationale": "Highlighting benefits is central to understanding the intervention\u2019s value and its potential impact on the condition studied."
+        },
+        {
+            "id": 4,
+            "question": "What are the main findings regarding efficacy and safety?",
+            "rating": 3,
+            "rationale": "while important, these are not the main thing I would note unless that was the primary endpoint of the study"
+        },
+        {
+            "id": 11,
+            "question": "What was the study design or setting of the trial?",
+            "rating": 4,
+            "rationale": "The study design and the setting are very important. There are different types of studies that are different and well-equipped to ask a particular type of question. So this is something that I would want to see communicated and I would henceforth communicate myself."
+        },
+        {
+            "id": 29,
+            "question": "What is the main outcome or effect observed?",
+            "rating": 5,
+            "rationale": "The main outcome or effect observed is the primary endpoint of the study and would be the main thing that a study is actually testing to see a difference in. This would be one of the main things that I would look for in a study whenever I am reading it and henceforth one of the first things that I would be reporting if I am writing a report."
+        },
+        {
+            "id": 0,
+            "question": "How long was the duration of the intervention or study?",
+            "rating": 3,
+            "rationale": "The duration is important but not the thing I would worry solely about. However is the study duration is one of the main premises of the study for example 6 month ADT vs 12 month ADT then that would bump it up to 5"
+        }
+    ],
+    "duration": 42
+}

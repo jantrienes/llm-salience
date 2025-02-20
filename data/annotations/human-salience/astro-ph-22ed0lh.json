@@ -1,0 +1,86 @@
+{
+    "dataset": "astro-ph",
+    "annotator": "22ed0lh",
+    "comments": "",
+    "items": [
+        {
+            "id": 8,
+            "question": "What methodology or techniques are employed in the study?",
+            "rating": 4,
+            "rationale": "Describing the methods or techniques helps provide context to the reader which may be important for their overall interpretation of the summary."
+        },
+        {
+            "id": 5,
+            "question": "What are the broader implications or potential applications of the findings?",
+            "rating": 3,
+            "rationale": "Contextualizing the content by explaining the broader implications or potential applications of the findings is immediately useful to a reader, though not necessarily critical toward their understanding of what was presented in the paper."
+        },
+        {
+            "id": 2,
+            "question": "How do the findings affect the understanding of astronomical systems?",
+            "rating": 3,
+            "rationale": "Contextualizing the content by explaining how the text impacts our understanding of astronomical systems is immediately useful to a reader, though not necessarily critical toward their understanding of what was presented in the paper."
+        },
+        {
+            "id": 17,
+            "question": "What broader context or field does the study contribute to or address?",
+            "rating": 3,
+            "rationale": "Situating the findings within the literature by relating to existing models or theories is important."
+        },
+        {
+            "id": 0,
+            "question": "What is the main focus of the study?",
+            "rating": 5,
+            "rationale": "The main focus of the study, along with the main findings, form the two most important elements of an article summary."
+        },
+        {
+            "id": 18,
+            "question": "How do the findings relate to existing models or theories?",
+            "rating": 3,
+            "rationale": "Situating the findings within the literature by relating to existing models or theories is important."
+        },
+        {
+            "id": 12,
+            "question": "What specific variables or conditions are crucial in the study's findings?",
+            "rating": 3,
+            "rationale": "Knowing specific variables or condition that are crucial is helpful to summarize."
+        },
+        {
+            "id": 6,
+            "question": "What comparisons are made within the study?",
+            "rating": 1,
+            "rationale": "Comparisons made within the study are not important for a high-level brief summary."
+        },
+        {
+            "id": 9,
+            "question": "Which future research directions does the study recommend or outline?",
+            "rating": 1,
+            "rationale": "Future research directions are not important for a brief summary, except in exceptional circumstances."
+        },
+        {
+            "id": 14,
+            "question": "What detailed evidence or data is used to support the study's claims?",
+            "rating": 1,
+            "rationale": "The evidence or data is important to know, but is a detail that should rank low in overall importance, or should otherwise be summarized very briefly."
+        },
+        {
+            "id": 3,
+            "question": "What specific challenges or limitations does the study address or identify?",
+            "rating": 2,
+            "rationale": "The specific challenges or limitations are important, but not among the most important things to be presented in a brief summary.  However, the important of any challenges or limitations depends upon the significance of those challenges or limitations, and so I'm some cases may be very important."
+        },
+        {
+            "id": 15,
+            "question": "What are the main findings of the study?",
+            "rating": 5,
+            "rationale": "The main findings of the study, along with the main focus, form the two most important elements of an article summary."
+        },
+        {
+            "id": 10,
+            "question": "What specific phenomena or processes are being investigated in the study?",
+            "rating": 4,
+            "rationale": "Explaining the specific phenomena or processes is very useful to help the reader understand the context for the study itself."
+        }
+    ],
+    "duration": 15
+}

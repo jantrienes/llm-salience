@@ -1,0 +1,86 @@
+{
+    "dataset": "astro-ph",
+    "annotator": "54znwsg",
+    "comments": "",
+    "items": [
+        {
+            "id": 0,
+            "question": "What is the main focus of the study?",
+            "rating": 3,
+            "rationale": "Can include, but it should be obvious from the abstract. "
+        },
+        {
+            "id": 15,
+            "question": "What are the main findings of the study?",
+            "rating": 5,
+            "rationale": "Important to state the main findings and then discuss them in details."
+        },
+        {
+            "id": 2,
+            "question": "How do the findings affect the understanding of astronomical systems?",
+            "rating": 5,
+            "rationale": "very important for the discussion section"
+        },
+        {
+            "id": 10,
+            "question": "What specific phenomena or processes are being investigated in the study?",
+            "rating": 1,
+            "rationale": "Should be obvious from the abstract. "
+        },
+        {
+            "id": 8,
+            "question": "What methodology or techniques are employed in the study?",
+            "rating": 1,
+            "rationale": "Should not be in the discussion section."
+        },
+        {
+            "id": 9,
+            "question": "Which future research directions does the study recommend or outline?",
+            "rating": 2,
+            "rationale": "Too much information. People are more interested in this study and its impact."
+        },
+        {
+            "id": 5,
+            "question": "What are the broader implications or potential applications of the findings?",
+            "rating": 2,
+            "rationale": "Too much information. \"How do the findings affect the understanding of astronomical systems?\" is more appropriate for the discussion section."
+        },
+        {
+            "id": 14,
+            "question": "What detailed evidence or data is used to support the study's claims?",
+            "rating": 1,
+            "rationale": "Should not be in the discussion section. This should be in the Results section."
+        },
+        {
+            "id": 18,
+            "question": "How do the findings relate to existing models or theories?",
+            "rating": 4,
+            "rationale": "Comparing with existing literature is very important for the discussion section. "
+        },
+        {
+            "id": 6,
+            "question": "What comparisons are made within the study?",
+            "rating": 3,
+            "rationale": "To give some context for the reader. This should be brief."
+        },
+        {
+            "id": 3,
+            "question": "What specific challenges or limitations does the study address or identify?",
+            "rating": 4,
+            "rationale": "Identify the limitations and challenges of the study is very important for the discussion section of a science paper."
+        },
+        {
+            "id": 12,
+            "question": "What specific variables or conditions are crucial in the study's findings?",
+            "rating": 2,
+            "rationale": "Too much information. Many of the information should be in the limitations already."
+        },
+        {
+            "id": 17,
+            "question": "What broader context or field does the study contribute to or address?",
+            "rating": 1,
+            "rationale": "This is not as relevant as other questions. "
+        }
+    ],
+    "duration": 30
+}

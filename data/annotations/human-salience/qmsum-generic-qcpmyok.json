@@ -1,0 +1,68 @@
+{
+    "dataset": "qmsum-generic",
+    "annotator": "qcpmyok",
+    "comments": "the importance of each question depends on the purpose of the meeting. ",
+    "items": [
+        {
+            "id": 15,
+            "question": "What are the identified challenges or concerns discussed?",
+            "rating": 3,
+            "rationale": "Motivation matters, but it\u2019s not as big a deal as the main topics."
+        },
+        {
+            "id": 2,
+            "question": "What were the main objectives or goals discussed in the meeting?",
+            "rating": 5,
+            "rationale": "Goals and objectives are key to figuring out if the meeting was effective."
+        },
+        {
+            "id": 10,
+            "question": "Which aspects of the main topic were covered in the discussion?",
+            "rating": 3,
+            "rationale": "The main topic is the top priority; its details aren\u2019t as important."
+        },
+        {
+            "id": 16,
+            "question": "What potential future steps or actions were planned in the meeting?",
+            "rating": 2,
+            "rationale": "\u201cPotential\u201d future steps don\u2019t seem as important as the \u201cwill-do\u201d steps."
+        },
+        {
+            "id": 14,
+            "question": "What detailed strategies or solutions were proposed for the challenges discussed?",
+            "rating": 2,
+            "rationale": "Going into too much detail in a summary might not be the best idea."
+        },
+        {
+            "id": 3,
+            "question": "What collaborative efforts or partnerships were discussed?",
+            "rating": 2,
+            "rationale": "For me, detailed info is fine, but only if there\u2019s space for it."
+        },
+        {
+            "id": 4,
+            "question": "What main topic was discussed in the meeting?",
+            "rating": 5,
+            "rationale": "The main topic is always the most important thing."
+        },
+        {
+            "id": 9,
+            "question": "Who are the participants and their roles discussed in the meeting?",
+            "rating": 1,
+            "rationale": "Participant info usually doesn\u2019t matter much, unless it\u2019s a special case."
+        },
+        {
+            "id": 17,
+            "question": "What were the major outcomes or decisions made during the meeting?",
+            "rating": 5,
+            "rationale": "Decisions made after the meeting really matter."
+        },
+        {
+            "id": 7,
+            "question": "What were the anticipated impacts or implications discussed?",
+            "rating": 3,
+            "rationale": "It\u2019s quite similar to outcomes, but it\u2019s less clear about what decisions have actually been made."
+        }
+    ],
+    "duration": 30
+}

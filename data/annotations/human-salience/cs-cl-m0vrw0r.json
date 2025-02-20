@@ -1,0 +1,92 @@
+{
+    "dataset": "cs-cl",
+    "annotator": "m0vrw0r",
+    "comments": "",
+    "items": [
+        {
+            "id": 11,
+            "question": "What are the new approaches or methods proposed to address the challenges?",
+            "rating": 4,
+            "rationale": "important, how is the paper filling the identified gap"
+        },
+        {
+            "id": 19,
+            "question": "What future research directions does the document propose?",
+            "rating": 4,
+            "rationale": "important, if this is about the identified gap. Otherwise I wouldn't expect the related work section to talk about future work"
+        },
+        {
+            "id": 25,
+            "question": "What is a prominent method mentioned for enhancing model effectiveness?",
+            "rating": 3,
+            "rationale": "important, but I would rather want to know about general approaches instead of specific methods "
+        },
+        {
+            "id": 12,
+            "question": "What recent advancements or innovations are highlighted in the document?",
+            "rating": 2,
+            "rationale": "not important to mention every advancement in a summary"
+        },
+        {
+            "id": 5,
+            "question": "Which benchmarks are considered in the study?",
+            "rating": 1,
+            "rationale": "not important, I think this will be mentioned elsewhere in the paper in detail. This may be important if the paper introduces a new benchmark. "
+        },
+        {
+            "id": 14,
+            "question": "What challenge or gap is identified in the research?",
+            "rating": 5,
+            "rationale": "very important, what is the gap identified by the paper based on related work"
+        },
+        {
+            "id": 23,
+            "question": "What are the main approaches or techniques discussed in the document?",
+            "rating": 5,
+            "rationale": "important, this would help me get familiar with this area of research on a high level"
+        },
+        {
+            "id": 20,
+            "question": "Which previous works or studies are referenced?",
+            "rating": 1,
+            "rationale": "not really important. I think this is too much details"
+        },
+        {
+            "id": 15,
+            "question": "What main topic is the document addressing?",
+            "rating": 3,
+            "rationale": "important to know what the paper is about, but I assume this will be clear from other parts"
+        },
+        {
+            "id": 8,
+            "question": "How does the study relate to previous research in the field?",
+            "rating": 5,
+            "rationale": "very important to know how this paper builds on previous work"
+        },
+        {
+            "id": 16,
+            "question": "What are the broader implications or applications of the research findings?",
+            "rating": 1,
+            "rationale": "not important for a related work section. I think this will be mentioned in the conclusion"
+        },
+        {
+            "id": 27,
+            "question": "What are the main methods or techniques evaluated in the study?",
+            "rating": 2,
+            "rationale": "not very important, since this will be mentioned elsewhere in the paper in detail "
+        },
+        {
+            "id": 30,
+            "question": "What improvements or contributions do the proposed methods make?",
+            "rating": 4,
+            "rationale": "important, addresses how the paper fills the identified gap"
+        },
+        {
+            "id": 21,
+            "question": "What significant results or conclusions does the document draw?",
+            "rating": 4,
+            "rationale": "important, high-level conclusions from the related work (current state of research and limitations)"
+        }
+    ],
+    "duration": 30
+}

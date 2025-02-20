@@ -1,0 +1,68 @@
+{
+    "dataset": "qmsum-generic",
+    "annotator": "ihvb1io",
+    "comments": "",
+    "items": [
+        {
+            "id": 2,
+            "question": "What were the main objectives or goals discussed in the meeting?",
+            "rating": 5,
+            "rationale": "This is what I would like to know the most from the meeting."
+        },
+        {
+            "id": 9,
+            "question": "Who are the participants and their roles discussed in the meeting?",
+            "rating": 5,
+            "rationale": "This is really important as I would like to know who all was in the meeting."
+        },
+        {
+            "id": 4,
+            "question": "What main topic was discussed in the meeting?",
+            "rating": 5,
+            "rationale": "This is what the summary is supposed to tell me. "
+        },
+        {
+            "id": 17,
+            "question": "What were the major outcomes or decisions made during the meeting?",
+            "rating": 5,
+            "rationale": "Meetings are usually used for the purpose of making some major decision with requires the input of a group of people. As such, this information is very important."
+        },
+        {
+            "id": 3,
+            "question": "What collaborative efforts or partnerships were discussed?",
+            "rating": 3,
+            "rationale": "This important to include if it was a part of the major decisions or outcomes of the meeting."
+        },
+        {
+            "id": 7,
+            "question": "What were the anticipated impacts or implications discussed?",
+            "rating": 3,
+            "rationale": "This is not too important, especially if decisions in the meeting were made under that consideration."
+        },
+        {
+            "id": 15,
+            "question": "What are the identified challenges or concerns discussed?",
+            "rating": 4,
+            "rationale": "These challenges are important to include as they are the roadblocks to progress and need to be emphasized."
+        },
+        {
+            "id": 16,
+            "question": "What potential future steps or actions were planned in the meeting?",
+            "rating": 5,
+            "rationale": "This is probably the most important question for this task: what are the next steps we all need to do?"
+        },
+        {
+            "id": 14,
+            "question": "What detailed strategies or solutions were proposed for the challenges discussed?",
+            "rating": 4,
+            "rationale": "This is important to keep as reference, as they are essential to ensure progress will be made."
+        },
+        {
+            "id": 10,
+            "question": "Which aspects of the main topic were covered in the discussion?",
+            "rating": 3,
+            "rationale": "This is not explicitly necessary. "
+        }
+    ],
+    "duration": 10
+}

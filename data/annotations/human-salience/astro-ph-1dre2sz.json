@@ -1,0 +1,86 @@
+{
+    "dataset": "astro-ph",
+    "annotator": "1dre2sz",
+    "comments": "I think it would be useful to classify paper into theory, method, and d observation (empirical). A theory paper might not have any data evidence in it, or a method paper can propose a computational method with no specific scientific finding (e.g., https://arxiv.org/abs/1509.00908). I want to think about the summary for a science paper like an information funnel. You start with large picture (context), then you provide a more detailed picture (a hypothesis, theory, etc), then you describe how this is tested (methods, techniques, data), and then provide evidence and main results. Finally, if there is room and it has border implication one may want to expand a little bit and talk about their interpretation and how it is related to the broader context. ",
+    "items": [
+        {
+            "id": 3,
+            "question": "What specific challenges or limitations does the study address or identify?",
+            "rating": 1,
+            "rationale": "Based on the provided examples I most likely do not include challenges and limitations. These examples focused on the future needs not an existing open question. The focus will be on the findings in the context of a hypothesis, conjecture, or a theory. \nSaying that if this is an infrastructure paper it would be appropriate to include the information. i.e. there is a need and we address this need. "
+        },
+        {
+            "id": 9,
+            "question": "Which future research directions does the study recommend or outline?",
+            "rating": 1,
+            "rationale": "The future direction, IMO, should not be included in the summary unless the paper open a new field, create a new open question, make a major discovery with a huge potential future direction that could not be pursued without this paper. Even in those cases I would focus on implications of the findings not future direction. From the examples, I am not sure they are all giving a future direction, it seems some just outlining the findings. \"Discovering large samples of cluster-lensed SNe Ia with JWST.\""
+        },
+        {
+            "id": 12,
+            "question": "What specific variables or conditions are crucial in the study's findings?",
+            "rating": 2,
+            "rationale": "In some cases, we describe the technique or models used for specific finding, I am not sure what it meant by conditions. For instanse, I think \"The lensing magnification caused by the foreground object, which allows for high-quality spectra to be taken a few restframe weeks after maximum light.\" describes the characteristics of data."
+        },
+        {
+            "id": 2,
+            "question": "How do the findings affect the understanding of astronomical systems?",
+            "rating": 4,
+            "rationale": "I think interpretation and implications of the finding should be included in the summary. It will help others to put it into the broader context of what they are working on and how this study might be relevant to the broader questions in asronomy. "
+        },
+        {
+            "id": 6,
+            "question": "What comparisons are made within the study?",
+            "rating": 3,
+            "rationale": "Comparison in this context can have three meanings. One it might be a technique used to answer the research question, then I would most likely include it, but if the comparison is with the previous finding, I think it is more appropriate for the discussion section but not in the summary with limited space.  Last a comparison can be just for validation of data, then it would not be included in the summary (unless the paper is about the validation of data). I feel in this example comparison is the technique used by the authors to achieve their goals. I might include it."
+        },
+        {
+            "id": 18,
+            "question": "How do the findings relate to existing models or theories?",
+            "rating": 4,
+            "rationale": "I think this is important to describe the finding in context of the research question, initial hypothesis, or a theory. "
+        },
+        {
+            "id": 0,
+            "question": "What is the main focus of the study?",
+            "rating": 5,
+            "rationale": "I would include this information, this is essentially the research question (testing a theorem, reporting a new discovery, releasing a data set, creating a tool etc)"
+        },
+        {
+            "id": 17,
+            "question": "What broader context or field does the study contribute to or address?",
+            "rating": 3,
+            "rationale": "I would combine this with main focus. This information in the example is completely useless (an artificat of LLM): \"The study contributes to the field of cosmology.\" One sentence is more than sufficient. This work studies the evaluation of Type I SN."
+        },
+        {
+            "id": 14,
+            "question": "What detailed evidence or data is used to support the study's claims?",
+            "rating": 4,
+            "rationale": "I consider this as the main findings. Surely, I would include this information as this is the key finding and main results. "
+        },
+        {
+            "id": 8,
+            "question": "What methodology or techniques are employed in the study?",
+            "rating": 3,
+            "rationale": "I think it is important to include the methodology used in a study; as the findings could be sensitive to the methodology. However, I can imagine papers in which a specific methodology used there can be tangential and not important.  "
+        },
+        {
+            "id": 5,
+            "question": "What are the broader implications or potential applications of the findings?",
+            "rating": 2,
+            "rationale": "I think there is a major overlap between this question and \"How do the findings relate to existing models or theories?\" If this question ask for minor implications beyond how it is related to existing theories, literature, etc, than I might exclude minor implications. But in the example provided here I would include this information if there is space. "
+        },
+        {
+            "id": 10,
+            "question": "What specific phenomena or processes are being investigated in the study?",
+            "rating": 5,
+            "rationale": "I feel this is the same as \"What is the main focus of the study?\" I am not sure how they are different. If this is about the level of details, I feel the level of details in the provided examples is the same.  "
+        },
+        {
+            "id": 15,
+            "question": "What are the main findings of the study?",
+            "rating": 5,
+            "rationale": "The key findings and evidence ca be the same; but yes, summary should include the key findings. This is the key takeaway from the paper and should be included regardless of what the paper is about. "
+        }
+    ],
+    "duration": 70
+}

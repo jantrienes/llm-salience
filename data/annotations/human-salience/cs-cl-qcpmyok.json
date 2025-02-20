@@ -1,0 +1,92 @@
+{
+    "dataset": "cs-cl",
+    "annotator": "qcpmyok",
+    "comments": "For me, questions about gaps in the literature and how the work connects to previous studies are important for the related work section. Just listing related work without explaining the connection might be informative, but it doesn\u2019t really add much value. To make the summary standalone, it\u2019s important to address the main topic clearly. Since we\u2019re just focusing on the related work section, not the whole paper, questions about methods or future directions aren\u2019t as relevant here.",
+    "items": [
+        {
+            "id": 20,
+            "question": "Which previous works or studies are referenced?",
+            "rating": 3,
+            "rationale": "Listing all related work is important if the summary shows the connection between previous work and the current work."
+        },
+        {
+            "id": 5,
+            "question": "Which benchmarks are considered in the study?",
+            "rating": 3,
+            "rationale": "Listing all benchmarks is important if the summary shows their connection to the current work."
+        },
+        {
+            "id": 30,
+            "question": "What improvements or contributions do the proposed methods make?",
+            "rating": 2,
+            "rationale": "might be helpful but"
+        },
+        {
+            "id": 16,
+            "question": "What are the broader implications or applications of the research findings?",
+            "rating": 1,
+            "rationale": "implications or applications  are not necessary to understand related work."
+        },
+        {
+            "id": 19,
+            "question": "What future research directions does the document propose?",
+            "rating": 1,
+            "rationale": "Future directions are not necessary to understand related work."
+        },
+        {
+            "id": 11,
+            "question": "What are the new approaches or methods proposed to address the challenges?",
+            "rating": 2,
+            "rationale": "important for introduction but not for related work"
+        },
+        {
+            "id": 25,
+            "question": "What is a prominent method mentioned for enhancing model effectiveness?",
+            "rating": 1,
+            "rationale": "we don't need to know a prominent method to understand the related work"
+        },
+        {
+            "id": 27,
+            "question": "What are the main methods or techniques evaluated in the study?",
+            "rating": 2,
+            "rationale": "important for introduction but not for related work"
+        },
+        {
+            "id": 14,
+            "question": "What challenge or gap is identified in the research?",
+            "rating": 5,
+            "rationale": "pointing gap in research is important for related work"
+        },
+        {
+            "id": 21,
+            "question": "What significant results or conclusions does the document draw?",
+            "rating": 1,
+            "rationale": "we can understand the related work without these information."
+        },
+        {
+            "id": 15,
+            "question": "What main topic is the document addressing?",
+            "rating": 5,
+            "rationale": "it is standalone, so the main topic should be mentioned"
+        },
+        {
+            "id": 8,
+            "question": "How does the study relate to previous research in the field?",
+            "rating": 5,
+            "rationale": "pointing the gap is the most important"
+        },
+        {
+            "id": 23,
+            "question": "What are the main approaches or techniques discussed in the document?",
+            "rating": 2,
+            "rationale": "important for introduction but not for related work"
+        },
+        {
+            "id": 12,
+            "question": "What recent advancements or innovations are highlighted in the document?",
+            "rating": 4,
+            "rationale": "showing the recent work is important"
+        }
+    ],
+    "duration": 45
+}

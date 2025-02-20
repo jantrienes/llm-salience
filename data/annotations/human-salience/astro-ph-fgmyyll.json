@@ -1,0 +1,86 @@
+{
+    "dataset": "astro-ph",
+    "annotator": "fgmyyll",
+    "comments": "",
+    "items": [
+        {
+            "id": 8,
+            "question": "What methodology or techniques are employed in the study?",
+            "rating": 5,
+            "rationale": "This is very important, as a reader that is familiar to the field should already identify context, caveats and limitations only from this information, even if there is no mention of them later in the summary."
+        },
+        {
+            "id": 2,
+            "question": "How do the findings affect the understanding of astronomical systems?",
+            "rating": 4,
+            "rationale": "This information should be included as it highlight the relevance of this work in a bigger context. It also hels to understand the scope of the paper, that even a reader familiar with the field could miss or misinterpret. "
+        },
+        {
+            "id": 10,
+            "question": "What specific phenomena or processes are being investigated in the study?",
+            "rating": 4,
+            "rationale": "This is important to understand the scope of the paper. "
+        },
+        {
+            "id": 14,
+            "question": "What detailed evidence or data is used to support the study's claims?",
+            "rating": 2,
+            "rationale": "While this might strengthen the point, in a summary I would first trust that their claims are supported by evidence. This is information that I can look for later if there is anything I doubt or I am interested in the study."
+        },
+        {
+            "id": 0,
+            "question": "What is the main focus of the study?",
+            "rating": 4,
+            "rationale": "This is important since it states the intention of the paper. A reader familiar to the field can extract useful contextual information from this that will help to better understand the intentions of the authors."
+        },
+        {
+            "id": 18,
+            "question": "How do the findings relate to existing models or theories?",
+            "rating": 3,
+            "rationale": "This is important for the broather context of the study, however it is more important to present the study results in a clear way. Only after that is clear I'd compare to other studies."
+        },
+        {
+            "id": 17,
+            "question": "What broader context or field does the study contribute to or address?",
+            "rating": 1,
+            "rationale": "This information is not relevant for the summary. The reader that is familiar with the field would fill this without the need of being explicitly written."
+        },
+        {
+            "id": 15,
+            "question": "What are the main findings of the study?",
+            "rating": 5,
+            "rationale": "This is the most important information of the summary.  Any other information shown should help to understand this information in as much context as is possible to include."
+        },
+        {
+            "id": 12,
+            "question": "What specific variables or conditions are crucial in the study's findings?",
+            "rating": 4,
+            "rationale": "This is relevant information to better understand the results, context, and limitations."
+        },
+        {
+            "id": 6,
+            "question": "What comparisons are made within the study?",
+            "rating": 2,
+            "rationale": "This is not important information, and is at a detail level that can be found later if interested on reading the paper in full."
+        },
+        {
+            "id": 3,
+            "question": "What specific challenges or limitations does the study address or identify?",
+            "rating": 1,
+            "rationale": "This is at a level of information that a reader would need only if interested on the paper in full. Some of these challenges can be identified by the reader if the methods and scope of the paper are sumarized clearly."
+        },
+        {
+            "id": 5,
+            "question": "What are the broader implications or potential applications of the findings?",
+            "rating": 1,
+            "rationale": "Unless this is the key result of the paper, I think is not relevant for the sumary as a knowleable reader could identify these implications without assistance if the results and methods are clearly described."
+        },
+        {
+            "id": 9,
+            "question": "Which future research directions does the study recommend or outline?",
+            "rating": 2,
+            "rationale": "The main purpose of the summary in my opinion is to understand the results and metodology. If there is room and it is relevant enough, I would include this information."
+        }
+    ],
+    "duration": 50
+}
