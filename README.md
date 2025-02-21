@@ -2,7 +2,7 @@
 
 This repository provides the code, model outputs and annotations for following paper:
 
-> Jan Trienes, Jörg Schlötterer, Junyi Jessy Li, Christin Seifert. 2025. [Behavioral Analysis of Information Salience in Large Language Models](). _arXiv Preprint_.
+> Jan Trienes, Jörg Schlötterer, Junyi Jessy Li, Christin Seifert. 2025. [Behavioral Analysis of Information Salience in Large Language Models](https://arxiv.org/abs/2502.14613). _arXiv Preprint_.
 
 **Abstract.** Large Language Models (LLMs) excel at text summarization, a task that requires models to select content based on its importance. However, the exact notion of salience that LLMs have internalized remains unclear. To bridge this gap, we introduce an explainable framework to systematically derive and investigate information salience in LLMs through their summarization behavior. Using length-controlled summarization as a behavioral probe into the content selection process, and tracing the answerability of Questions Under Discussion throughout, we derive a proxy for how models prioritize information. Our experiments on 13 models across four datasets reveal that LLMs have a nuanced, hierarchical notion of salience, generally consistent across model families and sizes. While models show highly consistent behavior and hence salience patterns, this notion of salience cannot be accessed through introspection, and only weakly correlates with human perceptions of information salience.
 
@@ -159,18 +159,13 @@ If you found any of these resources useful, please consider citing the following
 
 ```bibtex
 @misc{Trienes:2025:arXiv,
-    author = {
-        Trienes, Jan and
-        Schl{\"o}tterer, J{\"o}rg and
-        Li, Junyi Jessy and
-        Seifert, Christin
-    },
+    author = {Trienes, Jan and Schl{\"o}tterer, J{\"o}rg and Li, Junyi Jessy and Seifert, Christin},
     title = {Behavioral Analysis of Information Salience in Large Language Models},
     year = {2025},
-    eprint = {},
+    eprint = {2502.14613},
     archiveprefix = {arXiv},
     primaryclass = {cs.CL},
-    url = {https://arxiv.org/abs/}
+    url = {https://arxiv.org/abs/2502.14613}
 }
 ```
 
