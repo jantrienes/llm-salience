@@ -2,7 +2,7 @@
 
 This repository provides the code, model outputs and annotations for following paper:
 
-> Jan Trienes, Jörg Schlötterer, Junyi Jessy Li, Christin Seifert. 2025. [Behavioral Analysis of Information Salience in Large Language Models](https://arxiv.org/abs/2502.14613). _arXiv Preprint_.
+> Jan Trienes, Jörg Schlötterer, Junyi Jessy Li, and Christin Seifert. 2025. [Behavioral Analysis of Information Salience in Large Language Models](https://aclanthology.org/2025.findings-acl.1204/). _In Findings of the Association for Computational Linguistics: ACL 2025_, pages 23428–23454, Vienna, Austria. Association for Computational Linguistics.
 
 **Abstract.** Large Language Models (LLMs) excel at text summarization, a task that requires models to select content based on its importance. However, the exact notion of salience that LLMs have internalized remains unclear. To bridge this gap, we introduce an explainable framework to systematically derive and investigate information salience in LLMs through their summarization behavior. Using length-controlled summarization as a behavioral probe into the content selection process, and tracing the answerability of Questions Under Discussion throughout, we derive a proxy for how models prioritize information. Our experiments on 13 models across four datasets reveal that LLMs have a nuanced, hierarchical notion of salience, generally consistent across model families and sizes. While models show highly consistent behavior and hence salience patterns, this notion of salience cannot be accessed through introspection, and only weakly correlates with human perceptions of information salience.
 
@@ -30,7 +30,7 @@ We experimented with four datasets:
 3. **CL.** Related work sections of NLP/Computational Linguistics papers drawn from arXiv.
 4. **QMSum.** Meeting transcripts drawn from the QMSum dataset [(Zhong et al., NAACL 2021)](https://aclanthology.org/2021.naacl-main.472/)
 
-The raw data for QMSum can be found in `data/raw/qmsum`. Most scripts should run with this data. Also we provide scripts to fetch a new sample of RCT abstracts from PubMed. Due to license terms, we cannot release the raw data for RCT, Astro, and CL. In the meantime, we include the precise document identifiers that we used in our experiments in `data/processed/`, and we are evaluating a solution to allow reproduction of the raw dataset. If you are interested in reproducing any of the experiments, we are happy to assist. Please reach out (see contact below).
+The raw data for QMSum can be found in `data/raw/qmsum`. Most scripts should run with this data. Also we provide scripts to fetch a new sample of RCT abstracts from PubMed. Due to license terms, we cannot release the raw data for RCT, Astro, and CL. In the meantime, we include the precise document identifiers that we used in our experiments in `data/processed/`, and provide sources to fetch the texts from PubMed and arXiv. If you are interested in reproducing any of the experiments, we are happy to assist. Please reach out (see contact below).
 
 ### Preprocessing
 
@@ -158,14 +158,24 @@ Coming soon!
 If you found any of these resources useful, please consider citing the following paper.
 
 ```bibtex
-@misc{Trienes:2025:arXiv,
-    author = {Trienes, Jan and Schl{\"o}tterer, J{\"o}rg and Li, Junyi Jessy and Seifert, Christin},
-    title = {Behavioral Analysis of Information Salience in Large Language Models},
-    year = {2025},
-    eprint = {2502.14613},
-    archiveprefix = {arXiv},
-    primaryclass = {cs.CL},
-    url = {https://arxiv.org/abs/2502.14613}
+@inproceedings{trienes-etal-2025-behavioral,
+    title = "Behavioral Analysis of Information Salience in Large Language Models",
+    author = {Trienes, Jan  and
+      Schl{\"o}tterer, J{\"o}rg  and
+      Li, Junyi Jessy  and
+      Seifert, Christin},
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.1204/",
+    doi = "10.18653/v1/2025.findings-acl.1204",
+    pages = "23428--23454",
 }
 ```
 
